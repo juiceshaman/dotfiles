@@ -1,0 +1,228 @@
+mactex
+pdflatex
+which mactex
+which pdflatex
+cd tl
+ls
+cd install-tl-20230420
+ls
+pdflatex
+clear
+which tex
+vim ~/.zshrc
+source ~/.zshrc
+pdflatex
+which mactex
+/Users/ma/.config/texlive/texmf-dist/scripts/texlive/mktexlsr 
+pdflatex /Users/ma/test.tex 
+cd /Library/TeX/texbin
+ls
+vim ~/.zshrc
+source ~/.zshrc
+clear
+pdflatex
+which mactex
+which tex
+vim .zshrc
+cd /usr/local/texlive/2021/texmf-dist/scripts/texlive/
+cd /usr/local/texlive/2023/texmf-dist/scripts/texlive/
+ls
+cd ..
+cd ..
+cd ..
+ls
+cd ..
+pwd
+vim ~/.zshrc
+vim ~\.config/shell
+vim ~\.config/shell/aliasrc
+vim ~/.config/shell/aliasrc
+clear
+source ~/.zshrc
+pdflatex
+which pdflatex
+ls
+cd 2023
+ls
+texmf-config
+cd ..
+tlpkg
+ls
+source ~/.zshrc
+vim ~/.zshrc
+source ~/.zshrc
+$ZSH/plugins/\
+
+$ZSH
+.s
+which zsh
+which $ZSH
+$ZSH grep
+grep $ZSH
+$ZSH/
+vim /Users/ma/.config/shell/bm-files 
+vim /Users/ma/.config/shell/inputrc 
+vim /Users/ma/.config/shell/bm-dirs 
+h
+vim /Users/ma/.config/shell/profile 
+XDG_CONFIG_HOME:-$HOME/.config}/shell/shortcutrc
+${XDG_CONFIG_HOME:-$HOME/.config}/shell/aliasrc" ] && source "${XDG_CONFIG_HOME:-$HOME/.config}/shell/aliasrc
+${XDG_CONFIG_HOME:-$HOME/.config}/shell/aliasrc
+vim /Users/ma/.config/shell/aliasrc 
+vim /Users/ma/.config/shell/aliasrc 
+cd /bin/sh
+cd /
+cd bin/sh
+ls
+cd bin
+ls
+cd sh
+sh
+hello
+pdflatex
+ll
+ls
+pwd
+cd ..
+zsh
+mactex
+tex
+texlive
+which texlive
+vim /Users/ma/.config/zsh/.zshrc 
+source ~/.zshrc
+vim ~/.zshrc
+source ~/.zshrc
+which pdflatex
+ls
+cd Library
+ls
+cd Tex
+ls
+texbin
+ls
+pdflatex
+pwd
+/Library/Tex/texbin/pdflatex
+pwd
+vim ~/.zshrc
+source ~/.zshrc
+pdflatex
+ls
+ls -la
+which $PATH
+vim ~/.zshrc
+source ~/.zshrc
+pdflatex
+vim /Users/ma/.config/shell/aliasrc 
+vim /Users/ma/.config/shell/aliasrc 
+cd /bin/sh
+cd /
+cd bin/sh
+ls
+cd bin
+ls
+cd sh
+sh
+hello
+pdflatex
+ll
+ls
+pwd
+cd ..
+zsh
+mactex
+tex
+texlive
+which texlive
+vim /Users/ma/.config/zsh/.zshrc 
+source ~/.zshrc
+vim ~/.zshrc
+source ~/.zshrc
+which pdflatex
+ls
+cd Library
+ls
+cd Tex
+ls
+texbin
+ls
+pdflatex
+pwd
+/Library/Tex/texbin/pdflatex
+pwd
+vim ~/.zshrc
+source ~/.zshrc
+pdflatex
+ls
+ls -la
+which $PATH
+vim ~/.zshrc
+source ~/.zshrc
+pdflatex
+ls
+pdflatex test.tex
+ls
+zathura test.pdf
+preview test.pdf
+view test.pdf
+clear
+brew tap zegervdv/zathura
+brew install zathura
+zathura test.tex
+brew install zathura-pdf-poppler
+mkdir -p $(brew --prefix zathura)/lib/zathura
+ln -s $(brew --prefix zathura-pdf-poppler)/libpdf-poppler.dylib $(brew --prefix zathura)/lib/zathura/libpdf-poppler.dylib
+zathura test.pdf
+cd .config
+ls
+cd zathura
+ls
+vim zathurarc
+clear
+exit
+which girara
+vim test.tex
+pdflatex test.tex
+ls
+rm test.*
+clear
+which hammerspoon
+cd .hammerspoon
+ls
+vim init
+vim init.lua
+clear
+clear
+cd ..
+vim init.lua
+ls
+cd .hammerspoon
+vim init.lua
+ll
+ls
+cd
+vim ~/.config/shell/aliasrc
+z
+vim ~/.config/shell/aliasrc
+vim ~/.zshrc
+source ~/.zshrc
+ll
+clea
+alias
+vim ~/.zshrc
+source ~/.zshrc
+alias
+z
+ll
+ls
+ll
+alias
+which alias
+zsh -ixc : 2>&1 | grep ...
+zsh -ixc : 2>&1 | grep ls
+ll
+vim .zshrc
+source .zshrc
+ll
+clear

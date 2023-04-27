@@ -1,0 +1,20 @@
+# Include this code block at the top of a *.snippets file...
+# ----------------------------- #
+# this enables math-context expansion
+global !p
+def math():
+  return vim.eval('vimtex#syntax#in_mathzone()') == '1'
+endglobal
+# ----------------------------- #
+# ...then place 'context "math()"' above any snippets you want to expand only in math mode
+
+context "math()"
+snippet ff "This \frac{}{} snippet expands only a LaTeX math context"
+\frac{$1}{$2}$0
+endsnippet
+
+# A command I personally use for differentials
+context "math()"
+snippet "([^a-zA-Z0-9])df" "\diff" rA
+`!p snip.rv = match.group(1)`\diff
+endsnippet

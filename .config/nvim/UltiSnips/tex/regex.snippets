@@ -1,0 +1,58 @@
+# Include this code block at the top of a *.snippets file...
+# ----------------------------- #
+global !p
+def math():
+  return vim.eval('vimtex#syntax#in_mathzone()') == '1'
+endglobal
+# ----------------------------- #
+# ...then place 'context "math()"' above any snippets you want to expand only in math mode
+
+snippet "([^a-zA-Z])trigger" "Expands if 'trigger' is typed after characters other than a-z or A-Z" r
+`!p snip.rv = match.group(1)`snippet body
+endsnippet
+
+snippet "(^|[^a-zA-Z])trigger" "Expands on a new line or after characters other than a-z or A-Z" r
+`!p snip.rv = match.group(1)`snippet body
+endsnippet
+
+# This trigger suppresses numbers, too
+snippet "(^|[\W])trigger" "Expands on a new line or after characters other than 0-9, a-z, or A-Z" r
+`!p snip.rv = match.group(1)`snippet body
+endsnippet
+
+
+snippet "(^|[^a-zA-Z])mm" "Inline LaTeX math" rA
+`!p snip.rv = match.group(1)`\$ ${1:${VISUAL:}} \$$0
+endsnippet
+
+# Easily insert Euler's number e
+snippet "([^a-zA-Z])ee" "e^{} supercript" rA
+`!p snip.rv = match.group(1)`e^{${1:${VISUAL:}}}$0
+endsnippet
+
+# Prevent fraction expansion in words containing "ff"
+snippet "(^|[^a-zA-Z])ff" "\frac{}{}" rA
+`!p snip.rv = match.group(1)`\frac{${1:${VISUAL:}}}{$2}$0
+endsnippet
+
+
+# Expands if 'trigger' is typed after 0-9, a-z, and  A-Z
+snippet "([\w])trigger" "" r
+`!p snip.rv = match.group(1)`snippet body
+endsnippet
+
+# Of course, modify the }, ), ], and | characters as you wish
+snippet "([\w]|[\}\)\]\|])trigger" "Expands after 0-9, a-z, A-Z and }, ), ], and |" r
+`!p snip.rv = match.group(1)`snippet body
+endsnippet
+
+# This trigger suppresses expansion after numbers
+snippet "([a-zA-Z]|[\}\)\]\|])trigger" "Expands after a-z, A-Z and }, ), ], and |" r
+`!p snip.rv = match.group(1)`snippet body
+endsnippet
+
+# Quickly insert a zero subscript
+context "math()"
+snippet "([a-zA-Z]|[\}\)\]\|'])00" "Automatic 0 subscript" rA
+`!p snip.rv = match.group(1)`_{0}
+endsnippet

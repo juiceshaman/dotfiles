@@ -1,0 +1,24 @@
+mactex
+pdflatex
+which mactex
+which pdflatex
+cd tl
+ls
+cd install-tl-20230420
+ls
+pdflatex
+clear
+which tex
+vim ~/.zshrc
+source ~/.zshrc
+pdflatex
+which mactex
+/Users/ma/.config/texlive/texmf-dist/scripts/texlive/mktexlsr 
+pdflatex /Users/ma/test.tex 
+cd /Library/TeX/texbin
+ls
+vim ~/.zshrc
+source ~/.zshrc
+clear
+pdflatex
+which mactex

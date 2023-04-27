@@ -1,0 +1,6 @@
+vim /Users/ma/Blog/juiceshaman.github.io/blog/index.html 
+cd Blog
+cd juiceshaman.github.io
+git add .
+git commit -m "Posted"
+git push

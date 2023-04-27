@@ -1,0 +1,1219 @@
+mactex
+pdflatex
+which mactex
+which pdflatex
+cd tl
+ls
+cd install-tl-20230420
+ls
+pdflatex
+clear
+which tex
+vim ~/.zshrc
+source ~/.zshrc
+pdflatex
+which mactex
+/Users/ma/.config/texlive/texmf-dist/scripts/texlive/mktexlsr 
+pdflatex /Users/ma/test.tex 
+cd /Library/TeX/texbin
+ls
+vim ~/.zshrc
+source ~/.zshrc
+clear
+pdflatex
+which mactex
+which tex
+vim .zshrc
+cd /usr/local/texlive/2021/texmf-dist/scripts/texlive/
+cd /usr/local/texlive/2023/texmf-dist/scripts/texlive/
+ls
+cd ..
+cd ..
+cd ..
+ls
+cd ..
+pwd
+vim ~/.zshrc
+vim ~\.config/shell
+vim ~\.config/shell/aliasrc
+vim ~/.config/shell/aliasrc
+clear
+source ~/.zshrc
+pdflatex
+which pdflatex
+ls
+cd 2023
+ls
+texmf-config
+cd ..
+tlpkg
+ls
+source ~/.zshrc
+vim ~/.zshrc
+source ~/.zshrc
+$ZSH/plugins/\
+
+$ZSH
+.s
+which zsh
+which $ZSH
+$ZSH grep
+grep $ZSH
+$ZSH/
+vim /Users/ma/.config/shell/bm-files 
+vim /Users/ma/.config/shell/inputrc 
+vim /Users/ma/.config/shell/bm-dirs 
+h
+vim /Users/ma/.config/shell/profile 
+XDG_CONFIG_HOME:-$HOME/.config}/shell/shortcutrc
+${XDG_CONFIG_HOME:-$HOME/.config}/shell/aliasrc" ] && source "${XDG_CONFIG_HOME:-$HOME/.config}/shell/aliasrc
+${XDG_CONFIG_HOME:-$HOME/.config}/shell/aliasrc
+vim /Users/ma/.config/shell/aliasrc 
+vim /Users/ma/.config/shell/aliasrc 
+cd /bin/sh
+cd /
+cd bin/sh
+ls
+cd bin
+ls
+cd sh
+sh
+hello
+pdflatex
+ll
+ls
+pwd
+cd ..
+zsh
+mactex
+tex
+texlive
+which texlive
+vim /Users/ma/.config/zsh/.zshrc 
+source ~/.zshrc
+vim ~/.zshrc
+source ~/.zshrc
+which pdflatex
+ls
+cd Library
+ls
+cd Tex
+ls
+texbin
+ls
+pdflatex
+pwd
+/Library/Tex/texbin/pdflatex
+pwd
+vim ~/.zshrc
+source ~/.zshrc
+pdflatex
+ls
+ls -la
+which $PATH
+vim ~/.zshrc
+source ~/.zshrc
+pdflatex
+vim /Users/ma/.config/shell/aliasrc 
+vim /Users/ma/.config/shell/aliasrc 
+cd /bin/sh
+cd /
+cd bin/sh
+ls
+cd bin
+ls
+cd sh
+sh
+hello
+pdflatex
+ll
+ls
+pwd
+cd ..
+zsh
+mactex
+tex
+texlive
+which texlive
+vim /Users/ma/.config/zsh/.zshrc 
+source ~/.zshrc
+vim ~/.zshrc
+source ~/.zshrc
+which pdflatex
+ls
+cd Library
+ls
+cd Tex
+ls
+texbin
+ls
+pdflatex
+pwd
+/Library/Tex/texbin/pdflatex
+pwd
+vim ~/.zshrc
+source ~/.zshrc
+pdflatex
+ls
+ls -la
+which $PATH
+vim ~/.zshrc
+source ~/.zshrc
+pdflatex
+ls
+pdflatex test.tex
+ls
+zathura test.pdf
+preview test.pdf
+view test.pdf
+clear
+brew tap zegervdv/zathura
+brew install zathura
+zathura test.tex
+brew install zathura-pdf-poppler
+mkdir -p $(brew --prefix zathura)/lib/zathura
+ln -s $(brew --prefix zathura-pdf-poppler)/libpdf-poppler.dylib $(brew --prefix zathura)/lib/zathura/libpdf-poppler.dylib
+zathura test.pdf
+cd .config
+ls
+cd zathura
+ls
+vim zathurarc
+clear
+exit
+which girara
+vim test.tex
+pdflatex test.tex
+ls
+rm test.*
+clear
+which hammerspoon
+cd .hammerspoon
+ls
+vim init
+vim init.lua
+clear
+clear
+cd ..
+vim init.lua
+ls
+cd .hammerspoon
+vim init.lua
+ll
+ls
+cd
+vim ~/.config/shell/aliasrc
+z
+vim ~/.config/shell/aliasrc
+vim ~/.zshrc
+source ~/.zshrc
+ll
+clea
+alias
+vim ~/.zshrc
+source ~/.zshrc
+alias
+z
+ll
+ls
+ll
+alias
+which alias
+zsh -ixc : 2>&1 | grep ...
+zsh -ixc : 2>&1 | grep ls
+ll
+vim .zshrc
+source .zshrc
+ll
+clear
+ll
+ll
+zsh -ixc : 2>&1 | grep ll
+zsh -ixc : 2>&1 | grep ls="ll*\
+\
+clear
+grep -rl alias
+grep 'ls -l --color=auto' /etc/profile ~/.profile /etc/bash.bashrc ~/.bash_profile ~/.bashrc
+grep 'ls -l --color=auto' /etc/profile ~/.profile /etc/zsh.zshrc ~/.zsh_profile ~/.zshrc
+grep 'ls -l --color=auto' /etc/profile ~/.profile /etc/zsh/.zshrc ~/.zsh_profile ~/.zshrc
+grep 'ls -l --color=auto' /etc/profile ~/.zshrc
+brew install pdfrenamer
+brew install pdf-renamer
+pip
+\:q
+which pip
+pip install pdf-renamer==1.0rc9
+which python 3.11
+which python3.11
+python --version
+python3.11 -m pip install --upgrade pip
+cd ~/Downloads
+ls
+pdfrenamer *.pdf 
+pdfrenamer *.pdf 
+vim keto_deficiencies.md
+pandoc
+brew install pandoc
+pandoc keto_deficiencies.md keto_deficiencies.pdf
+pandoc keto_deficiencies.md -o keto_deficiencies.pdf
+z keto_deficiencies.pdf
+vim keto_deficiencies.md
+pandoc keto_deficiencies.md -o keto_deficiencies.pdf
+z keto_deficiencies.pdf
+rm -r keto*
+cd ~/Downloads
+ls
+pdfrenamer 0_great_medawar_-_advice_to_a_young_scientist.pdf
+pdfrenamer yewdell_2008_-_how_to_succeed_in_science_part_1.pdf
+pdfrenamer yewdell_2008_-_how_to_succeed_in_science_part_2.pdf
+pdfrenamer ScienceDirect_articles_21Apr2023_11-34-03
+pdfrenamer acsomega.1c04196.pdf
+cd Blog
+cd juiceshaman.github.io
+git push -u origin main
+clear
+ls
+which rub
+which ruby
+ruby --version
+gem -v
+gcc -v
+g++ -v
+make -v
+brew install rbenv ruby-build
+rbenv init
+echo "eval "$(rbenv init - zsh)"" >> ~/.zshrc
+source ~/.zshrc
+rbenv init
+cd ~/Downloads
+pdfrenamer simple_sabotage_field_manual_-_oss.pdf
+cd ~/Blog
+git clone https://github.com/juiceshaman/juiceshaman.github.io.git
+cd juiceshaman.github.io
+echo "Hello World" > index.html
+git add --all
+git commit -m "Initial Commit"
+git push -u origin main
+git push -u origin main
+git push -u origin main
+git push -u origin main
+echo "Hello World" > index.html
+git add --all
+git commit -m "Initial Commit"
+git push -u origin main
+vim blog_PAT.txt
+cd ~/Documents/My\ Life
+ls
+cd Content
+vim 22.04.23.mdf
+mv 22.04.23.mdf 22.04.23.md
+xcode-select --install
+brew install openssl@3 readline libyaml gmp
+export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@3)"
+brew install rust
+rbenv install -L
+rbenv install 3.2.0
+rbenv global 3.2.0
+ruby -v
+rbenv -version
+rbenv -v
+ruby -v
+which ruby
+cd Blog
+rbenv local 3.1.2
+rbenv local 3.2.0
+ruby
+which ruby
+ruby -v
+gem env home
+rbenv global 3.2.0
+cd Blog/myblog
+ls -a
+ll
+la
+ls -a
+cd Gemfile
+ls
+cat Gemfile
+vim Gemfile
+vim 
+bundle install
+bundle update --bundler
+gem env home
+bundle update github-pages
+gem install bundler:2.4.12
+ruby -v
+rbenv global 3.2.0
+ruby -v
+export PATH="$HOME/.rbenv/bin:$PATH"
+echo "export PATH="$HOME/.rbenv/bin:$PATH"\
+eval "$(rbenv init -)"" >> ~/.zshrc
+cat ~/.zshrc
+vim ~/.zshrc
+source ~/.zshrc
+ruby -v
+rbenv global 3.2.0
+ruby -v
+rbenv global
+rbenv local
+rbenv rehash
+ruby -v
+ls $HOME
+ls -a $HOME
+ruby -v
+cd Blog
+ruby -v
+rbenv rehash
+which ruby
+rbenv local
+rbenv global
+env | grep PATH
+vim ~/.zshrc
+source ~/.zshrc
+vim ~/.zshrc
+source ~/.zshrc
+ env | grep PATH
+eval "$(rbenv init -)"
+ruby
+ruby -v
+gem install jekyll bundler
+which gem
+gem update --system 3.4.12
+gem env
+gem env home
+cd ..
+ls
+cd Blog
+jekyll new myblog
+cd myblog
+bundle exec jekyll serve
+bundle exec jekyll serve --livereload
+ruby -v
+cd Blog
+ls
+rbenv gloabl
+rbenv global
+vim ~/.zshrc
+source ~/.zshrc
+ruby -v
+ruby -v
+rbenv versions
+ruby .v
+ruby -v
+clear
+cd Blog
+cd myblog
+bundle install
+gem install bundler:2.4.12
+which ruby
+rbenv global 3.2.0
+rbenv local --unset
+rbenv shell --unset
+ls -laG
+cd ..
+ls -laG
+cat .ruby-version
+rm -r .ruby-version
+rbenv versions
+ rbenv init -
+which ruby
+rbenv init
+rbenv init -
+vim ~/.zshrc
+source ~/.zshrc
+which ruby
+source ~/.zshrc
+vim ~/.zshrc
+source ~/.zshrc
+clear
+ruby 
+which rby
+which ruby
+rbenv init -
+which ruby
+rbenv versions
+ rbenv global
+ echo 'eval "$(rbenv init -)"' >> ~/.zshrc
+source ~/.zshrc
+which ruby
+gem env
+gem env home
+which rby
+which ruby
+bundle install
+cd myblog
+bundle install
+ls
+vim Gemfile
+bundle update github-pages
+jekyll serve -
+bundle exec jekyll serve -
+vim Gemfile
+bundle exec jekyll serve\
+
+gem install jekyll bundler
+bundle exec jekyll serve\
+
+ls
+cd _posts
+ls
+vim 2021-04-22-test.md
+vim 2021-04-22-test.md
+cd ..
+ls
+mkdir _layouts
+vim _layouts/posts.html
+vim blog.html
+jekyll build
+jekyll serve
+bundle exec jekyll serve
+vim Gemfile
+bundle update github-pages
+vim Gemfile
+bundle exec jekyll serve
+jekyll serve
+vim Gemfile
+which ruby
+which git
+$ git config --global user.name "juiceshaman"
+git config --global user.name "juiceshaman"
+git config --global user.name
+ git config --global user.email "mario.albus@icloud.com"
+git config --global user.email
+git 
+git add .
+cd ..
+git add .
+cd ..
+ls
+ls -a
+cd Blog
+ls
+cd juiceshaman.github.io
+ls
+jekyll new --skip-bundle .
+rm -r *
+jekyll new --skip-bundle .
+cd ..
+rm -r myblog
+which ruby
+ls
+cd juiceshaman.github.io
+ls
+vim Gemfile
+vim Gemfile
+bundle install
+vim _config.yml
+git add .
+git commit -m "Initial commit: Github pages site with jekyll."
+git remote add origin https://github.com/juiceshaman/juiceshaman.github.io.git
+git push -u origin BRANCH
+ git remote add origin https://github.com/juiceshaman/juiceshaman.github.io
+ git remote add non-origin https://github.com/juiceshaman/juiceshaman.github.io
+ git remote add non-origin https://github.com/juiceshaman/juiceshaman.github.io.git
+git push -u origin 
+git push -u non-origin 
+vim _config.yml
+brew install docker
+brew install docker-compose
+docker-compose up
+which ruby
+vim Gemfile
+bundle install
+vim Gemfile
+bundle install
+vim Gemfile
+bundle install
+bundle exec jekyll serve --lsi
+vim _config.yml
+vim Gemfile
+bundle install
+vim _config.yml
+bundle exec jekyll serve
+git add .
+git commit -m "Changed skin to simple blog theme"
+git push
+bundle exec jekyll serve
+bundle install
+bundle exec jekyll serve
+git add .
+git commit -m "Changed skin to simple blog theme"
+vim Gemfile
+bundle update github-pages
+git push bundle exec jekyll serve
+bundle exec jekyll serve
+ls
+mv *.markdown *.html
+mv about.markdown about.html
+mv index.markdown index.html
+bundle exec jekyll sever
+bundle exec jekyll serve
+bundle exec jekyll serve
+bundle install
+bundle exec jekyll serve
+vim _config.yml
+bundle isntall
+bundle install
+bundle exec jekyll serve
+vim Gemfile
+bundle install
+bundle exec jekyll serve
+git add .
+git commit -m "Retry"
+git push
+bundle exec jekyll serve
+cd Blog
+cd juiceshaman.github.io
+git add .
+git commit -m "Added Images"
+ git push -u origin main
+ git push -u non-origin main
+vim /Users/ma/Blog/juiceshaman.github.io/index.html 
+vim /Users/ma/Blog/juiceshaman.github.io/_site/contact.html 
+cd Blog
+cd juiceshaman.github.io
+vim index.html
+vim about.html
+vim contact.html
+vim posts/index.html
+vim _posts/22-04-2023_test.html
+vim contact.html
+vim _config.yml
+bundle exec jekyll serve
+vim contact.html
+vim _config.yml
+vim contact.html
+vim contact.html
+vim contact.html
+vim contact.html
+vim contact.html
+vim contact.html
+vim contact.html
+vim _config.yml
+vim _site
+mkdir _Books
+cd Books
+cd _Books
+vim index.html
+vim _site
+ls
+cd ..
+ls
+vim _site
+ls
+mv _Books _books
+cat _books
+cd _books
+ls
+cat index.html
+cd ..
+ls
+vim about.html
+vim index.html
+vim about.html
+vim books.html
+cd ..
+ls
+cd juiceshaman.github.io
+ls
+ls -a
+ls -l
+vim about.html
+ls 
+cd _posts
+ls
+cd ..
+vim _config.yml
+git add .
+git commit -m "Changed theme"
+git push
+vim Gemfile
+bundle install
+git add .
+git commit -m "Retry"
+git push origin main
+rm README.md
+gem install jekyll-theme-clean-blog
+bundle install
+git add .
+git commit -m "Installed gem for the theme"
+git push origin main
+vim Gemfile
+bundle install
+git add .
+git commit -m "Installed gem for the theme"
+git push origin main
+cd _posts
+ls
+vim 2020-01-26-dinosaurs.html
+vim 2023-04-22-test
+c..
+cd ..
+vim about.html
+gem env
+gems
+which gem
+gem install jekyll-theme-clean-blog
+bundle install
+git add .
+git commit 
+git commit -m "No idea"
+git push origin main
+vim Gemfile
+vim Gemfile
+git add .
+git commit -m "No idea"
+git push origin main
+bundle update
+git add .
+git commit -m "No idea"
+git push origin main
+gem install jekyll-theme-clean-blog
+bundle updagte
+bundle update
+vim g
+vim Gemfile
+bundle update
+bundle install
+git add .
+git commit -m "No idea"
+git push origin main
+gem install "jekyll-theme-clean-blog"
+bundle install
+bundle exec jekyll serve
+bundle exec jekyll serve
+bundle exec jekyll serve
+vim _config.yml
+vim Gemfile
+bundle install
+vim Gemfile
+bundle install
+bundle exec jekyll serve
+git add .
+git commit -m ""
+git commit -m " "
+git commit -m "IDK "
+git push origin main
+cd Blog
+cd juiceshaman.github.io
+mkdir posts
+ls 
+cd Documents
+ls
+cd My\ Life
+ls
+cd Content
+ls
+cat 22.04.23.md
+cd ~
+ls
+cd Blog
+git clone https://github.com/juiceshaman/juiceshaman.github.io.git
+cd juiceshaman.github.io
+bundle install
+which ruby
+which bundler
+which gem
+bundle install
+bundle exec jekyll serve --lsi
+bundle exec jekyll serve --lsi
+bundle exec jekyll serve --lsi
+bundle exec jekyll serve --lsi
+bundle exec jekyll serve --lsi
+bundle exec jekyll serve --lsi
+bundle exec jekyll serve --lsi
+bundle install
+bundle exec jekyll serve --lsi
+bundle exec jekyll serve --lsi
+vim _config.yml
+bundle exec jekyll serve --lsi
+vim _config.yml
+bundle exec jekyll serve --lsi
+bundle exec jekyll serve --lsi
+cd 
+cd blog
+cd juiceshaman.github.io
+cd _posts
+vim 2023-04-23-flowstates.md
+vim 2023-04-23-flowstates.md
+vim ..
+vim ..
+vim ..
+vimls
+ls
+vim 2023-04-23-flowstates.md
+mv 2023-04-23-flowstates.md 2022-04-23-flowstates.md
+rm -r 2022-04-23-flowstates.md
+undo
+vim 2023-04-23-flowstates.md
+cd ..
+vim _config.yml
+vim _
+vim _config.yml
+git add .
+git commit -m "First post"
+git push
+git push gh-pages
+add .
+git add -
+git add .
+git commit -m "Changed books"
+git push origin 
+git remote add upstream https://github.com/juiceshaman.github.io.git
+git fetch upstream
+git remote add upstream https://github.com/juiceshaman.github.io.
+git fetch upstream
+git rebase v0.9.0
+bundle install
+git add .
+git commit -m "Installed"
+git push gh-pages
+git push origin
+vim _config.yml
+git add . 
+git commit -m "changed footer"
+git push
+ls
+cd _site
+ls
+cd cv
+ls
+vim index.html
+git add .
+git commit -m "Cv changed from default"
+git push
+vim index.html
+cd ..
+ls
+cat robots.txt
+cd books
+ls
+vim index.html
+cd ..
+cd .
+ls
+cd _pages
+ls
+cd dropdown
+ls
+cd ..
+ls
+ls -a
+cd ..
+ls -a
+cd ..
+vim _config.yml
+git add .
+git commit -m "Removed some of default"
+git push
+vim /Users/ma/Blog/juiceshaman.github.io/_news/announcement_1.md 
+bundle install
+git add .
+git commit -m "Changed some default settings"
+git push origin
+git push gh-pages
+vim /Users/ma/Blog/juiceshaman.github.io/_news/announcement_2.md 
+vim /Users/ma/Blog/juiceshaman.github.io/_projects/1_project.md 
+vim /Users/ma/Documents/My\ Life/Content/22.04.23.md 
+cd Blog/juiceshaman.github.io
+cd _posts
+ls
+vim _2015-03-15-formatting-and-links.md
+cd Blog/juiceshaman.github.io
+ls
+vim _config.yml
+ls
+cd _posts
+vim 2015-03-15-formatting-and-links.md
+cd _posts
+cd ..
+ls
+cd _pages
+ls
+vim publications.md
+vim cv.md
+vim projects.md
+cd ..
+vim _config.yml
+cd ..
+ls
+cd juiceshaman.github.io
+ls
+vim _config.yml
+git add .
+git commit -m "fixed config"
+git push
+vim _config.yml
+vim /Users/ma/Blog/juiceshaman.github.io/_pages/publications.md 
+vim /Users/ma/Blog/juiceshaman.github.io/_pages/books.md 
+git add .
+git commit -m "removed default sites"
+git push
+ls -la
+cd _pages
+ls
+vim about.md
+git add .
+git push
+git commit -m "Info"
+git push
+bundle install
+bundle exec jekyll serve
+cd ..
+bundle exec jekyll serve
+clear
+ls
+cd _pages
+ls
+vim cv
+vim cv.md
+ls
+vim books.md
+ls
+cd ..
+ls
+cd _projects
+ls
+cd ..
+mkdir _books
+cd _projects
+vim 1_project.md
+cd ..
+ls
+cd _
+cd _posts
+ls
+mv 2015-03-15-formatting-and-links.md _2015-03-15-formatting-and-links.md
+vim 2023-04-23-getting-up.md
+git add .
+git commit -m "added short post"
+git push
+cd .
+cd ..
+git add .
+git commit -m "change"
+git push
+cd _books
+ls
+cd ..
+ls
+cd _projects
+ls
+pwd
+cd ..
+cp /Users/ma/Blog/juiceshaman.github.io/_projects/1_project.md /Users/ma/Blog/juiceshaman.github.io/_books/_template.md
+cd ..
+cd juiceshaman.github.io
+cd _projects
+ls
+cd ..
+git add .
+git commit -m "added books section"
+git push
+cd _p
+cd _posts
+ls
+vim 2023-04-23-flowstates.md
+cd ..
+git add .
+git commit -m "fixed post page "
+git push
+ls
+cd _site
+ls
+cd xv
+cd cv
+ls
+ls
+vim index.html
+which cv.md
+cd ..
+which cv.md
+cd ..
+time
+date
+vim /Users/ma/Blog/juiceshaman.github.io/_pages/cv.md 
+vim /Users/ma/Blog/juiceshaman.github.io/_includes/cv/list.html 
+vim /Users/ma/Blog/juiceshaman.github.io/_includes/cv/map.html 
+vim /Users/ma/Blog/juiceshaman.github.io/_includes/cv/nested_list.html 
+vim /Users/ma/Blog/juiceshaman.github.io/_data/cv.yml 
+vim /Users/ma/Blog/juiceshaman.github.io/_data/cv.yml 
+cd Blog
+cd juiceshaman.github.io
+git add .
+git commit -m "changed cv"
+git push
+cd _posts
+ls
+vim 2023-04-23-
+vim 2023-04-23-getting-up.md
+git add .
+git commit -m "added short"
+git push
+cd ..
+vim _config.yml
+git add .
+git commit -m "Changed some settings"
+git push
+cd _pages
+ls
+vim about.md
+git add .
+git commit -m "Changed some settings"
+git push
+cd ..
+vim _config.yml
+cd _pages
+ls
+vim about.md
+cd ..
+ls
+cd _pages
+ls
+cd ..
+ls
+cd blog
+ls
+vim index.html
+cd ..
+ls
+cd _site
+ls
+cd blog
+ls
+cd ..
+cd ..
+ls
+vim _config.yml
+git add .
+git commit -m "removed some clutter"
+git push
+vim Ilya_Prigon
+vim Ilya_Prigogine.txt
+ls
+cd Desktop
+vim 24-04-2023-Psilocybin.txt
+cd Documents/Bachelor/6
+cd Documents/Bachelor/
+cd 6th\ Semester
+cd AC6
+vim cowan.txt
+cd ,,
+ls
+cd ..
+vim test.tex
+cd Documents/Bachelor/6th\ Semester/AC6
+ls
+pwd
+cd Downloads
+ls
+mv Chelation\ Therapy\ I /Users/ma/Documents/Bachelor/6th Semester/AC6/chelation_terapy_I
+mv Chelation\ Therapy\ I.pdf /Users/ma/Documents/Bachelor/6th Semester/AC6/chelation_terapy_I.pdf
+mv Chelation\ Therapy\ I.pdf /Users/ma/Documents/Bachelor/6th\ Semester/AC6/chelation_terapy_I.pdf
+mv Chelation\ Therapy\ II.pdf /Users/ma/Documents/Bachelor/6th\ Semester/AC6/chelation_terapy_II.pdf
+clear
+cd ..
+cd Blog
+cd instagram
+ls
+rm -r untitled\ folder
+mkdir publications
+mkdir books
+mkdir nature
+mkdir culture
+mkdir people
+touch notes.txt
+z /Users/ma/Pictures/IMG_2376.JPG 
+z /Users/ma/Pictures/IMG_2504.heic 
+brew install libheif-examples
+brew install imagemagic
+brew install imagemagick
+cd /Users/ma/Pictures 
+ls
+magick mogrify -monitor -format jpg *.HEIC
+mkdir heic_files
+mv *.heic heic_files
+mv *.HEIC heic_files
+cd heic_files
+magick mogrify -monitor -format jpg *.heic
+cd ..
+mv /heic_files/*.jpg *.jpg
+cd heic_files
+mv *.jpg ..
+cd ..
+ls
+neovim --version
+nvim --version
+vim
+vim ~/.vimrc
+which .vimrc
+touch /Users/ma/.config/nvim/.vimrc
+ln -sf /Users/ma/.config/nvim/.vimrc ~/.vimrc
+cd ~
+ls
+vim .vimrc
+source .vimrc
+vim .vimrc
+source .vimrc
+vim .vimrc
+source .vimrc
+vim .vimrc
+source .vimrc
+vim .vimrc
+source .vimrc
+vim .vimrc
+source .vimrc
+vim .vimrc
+source .vimrc
+vim .vimrc
+source .vimrc
+vim .vimrc
+source .vimrc
+vim .vimrc
+whi´ch vim
+which vim
+which nvim
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \\
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+source ~/.vimrc
+vim .vimrc
+source ~/.vimrc
+vim .vimrc
+source ~/.vimrc
+vim .vimrc
+source ~/.vimrc
+vim .vimrc
+source .vimrc
+vim .vimrc
+source .vimrc
+mkdir ~/.config/nvim/bundle
+source .vimrc
+vim .vimrc
+vim .vimrc
+source .vimrc
+rm -r .vimrc
+touch /Users/ma/.config/nvim/vimrc
+vim /Users/ma/.config/nvim/vimrc
+vim -u /Users/ma/.config/nvim/vimrc 
+vim /Users/ma/.config/nvim/vimrc 
+mv /Users/ma/.config/nvim/vimrc  ~/.vimrc
+source .vimrc
+clear
+which vim
+which nvim
+cd /usr/local/bin/nvim
+ls
+ls | grep vim
+ls | grep .vim
+ls
+ls -a
+rm -r .vimrc
+vim .zshrc
+source .zshrc
+clear
+vim ~/.config/nvim/init.vim
+vim ~/.config/nvim/init.vim
+vim
+vim ~/.config/nvim/init.vim
+vim ~/.config/nvim/init.vim
+source ~/.config/nvim/init.vim
+source ~/.config/nvim/init.vim
+vim
+vim test.tex
+mkdir -p $HOME/.config/nvim/my_snippets
+mv markdown.snippets $HOME/.config/nvim/my_snippets
+vim
+nvim -es -u init.vim -i NONE -c "PlugInstall" -c "qa"
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \\
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+vim " let data_dir = has('nvim') ? stdpath('data') . '/site' : '~/.config/nvim'\
+" if empty(glob(data_dir . '/autoload/plug.vim'))\
+"   silent execute 'curl -fLo ~/.vim/autoload/plug.vim --create-dirs \\
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim -fLo '.data_dir.'/autoload/plug.vim --create-dirs  https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'\
+"   autocmd VimEnter * PlugInstall --sync | source ~/.vimrc\
+" endif\
+"\
+\
+" make :plugInstall run on starting vim\
+" Install vim-plug if not found\
+" if empty(glob('~/.config/nvim/autoload/plug.vim'))\
+"   silent curl -fLo ~/.vim/autoload/plug.vim --create-dirs \\
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim -fLo ~/.config/nvim/autoload/plug.vim --create-dirs\
+"     \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim\
+" endif\
+"\
+" " Run PlugInstall if there are missing plugins\
+" autocmd VimEnter * if len(filter(values(g:plugs), '!isdirectory(v:val.dir)'))\
+"   \| PlugInstall --sync | source $MYVIMRC\
+" \| endif\
+"\
+
+vim
+vim -r ~/.config/nvim/init.vim
+q
+vim /Users/ma/.config/nvim/init.vim 
+source /Users/ma/.config/nvim/init.vim
+vim /Users/ma/.config/nvim/init.vim 
+pip3 install --user pynvim
+vim /Users/ma/.config/nvim/init.vim 
+vim /Users/ma/.config/nvim/init.vim 
+vim /Users/ma/.config/nvim/init.vim 
+vim /Users/ma/.config/nvim/init.vim 
+vim /Users/ma/.config/nvim/init.vim 
+vim /Users/ma/.config/nvim/init.vim 
+vim /Users/ma/.config/nvim/init.vim 
+vim /Users/ma/.config/nvim/init.vim 
+vim /Users/ma/.config/nvim/init.vim 
+vim test.tex
+vim /Users/ma/.config/nvim/init.vim 
+vim /Users/ma/.config/nvim/init.vim 
+brew install latexrun
+brew install vimtex-compiler-latexmk
+mkdir ${HOME}/.config/nvim/UltiSnips/
+cd ${HOME}/.config/nvim/UltiSnips/
+ls
+cd ..
+ls
+cd UltiSnips
+mkdir tex
+cd ..
+mkdir MySnippets
+cd UltiSnips
+cd Tex
+ls
+vim begin.snippets
+vim begin.snippets
+cd ..
+vim all.snippets
+cd tex
+vim math.snippets
+vim text.snippets
+vim
+cd ~
+vim test.tex
+cd ~/.config/nvim/UltiSnips/tex
+vim math.snippets
+cd ..
+cd tex
+vim begin.snippets
+vim ~/test.tex
+vim begin.snippets
+vim ~/test.tex
+vim begin.snippets
+vim ~/test.tex
+pdflatex ~/test.tex
+vim ~/test.tex
+pdflatex ~/test.tex
+vim ~/test.tex
+pdflatex ~/test.tex
+z ~/test.pdf
+open ~
+ls
+z test.pdf
+rm -r test*
+exit
+cd ~/.config/nvim/UltiSnips
+ls
+cd tex
+vim protocol.snippets
+vim protocol.snippets

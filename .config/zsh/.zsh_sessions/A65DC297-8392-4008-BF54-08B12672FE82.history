@@ -1,0 +1,13 @@
+mactex
+pdflatex
+which mactex
+which pdflatex
+cd tl
+ls
+cd install-tl-20230420
+ls
+pdflatex
+clear
+which tex
+vim ~/.zshrc
+source ~/.zshrc

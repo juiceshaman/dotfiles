@@ -1,0 +1,65 @@
+snippet pro "Description"
+%Layout
+\documentclass[12pt]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[a4paper,lmargin=2.5cm,rmargin=2cm,tmargin=2.5cm,bmargin=2.5cm]{geometry}
+\usepackage[]{setspace}
+
+%Mathemodus
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{siunitx}
+\usepackage{gensymb}
+
+%Chemiepackages
+\usepackage[version=3]{mhchem}
+%\usepackage{ghsystem}
+
+%Grafik, Tabellen, Layout etc
+\usepackage{booktabs}
+\usepackage{subfigure}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{pdfpages}
+
+%Kopf- und Fußzeile - Angaben noch ausfüllen
+\usepackage{scrlayer-scrpage} %evtl Option [headsepline]~(Linie unter der Kopfzeile)
+\clearpairofpagestyles
+%\ihead{\headmark}
+\automark{section}
+\ohead{\today}
+\cfoot{\pagemark}
+
+%Titel - Angaben noch ausfüllen
+\title{$1}																				%CHANGE!
+\subtitle{$2}																				%CHANGE!
+\author{Mario E. Albus}
+\date{\today}
+
+%Gefahrstoffe - erst noch mit dem Package vertraut machen - https://ctan.org/pkg/ghsystem?lang=de oder
+%\usepackage{ghsystem}
+
+%Zitieren in LaTeX - erst mit dem Package vertraut machen - https://ctan.org/pkg/biblatex?lang=de oder https://de.wikibooks.org/wiki/LaTeX-Kompendium:_Zitieren_mit_BibTeX oder https://www.youtube.com/watch?v=kG8VzYm5hBQ
+%Der Editor~(TeXStudio) muss erst entsprechend konfiguriert werden
+%Es muss ein Bibfile~(eine Bibliographie) erstellt werden und im selben Ordner gespeichert werden
+
+%Zitation
+%\usepackage{csquotes}
+%\usepackage[backend=biber,bibstyle=chem-angew,citestyle=chem-angew,sorting=none,bibencoding=utf8]{biblatex}
+%\addbibresource{Library.bib} - Hier Bibfile einfügen
+% Separator style
+
+endsnippet
+
+snippet tit ""
+	\maketitle
+	%\tableofcontents
+	%\pagebreak
+	%\listoftables
+	%\listoffigures
+	%\pagebreak
+endsnippet

@@ -1,0 +1,67 @@
+mactex
+pdflatex
+which mactex
+which pdflatex
+cd tl
+ls
+cd install-tl-20230420
+ls
+pdflatex
+clear
+which tex
+vim ~/.zshrc
+source ~/.zshrc
+pdflatex
+which mactex
+/Users/ma/.config/texlive/texmf-dist/scripts/texlive/mktexlsr 
+pdflatex /Users/ma/test.tex 
+cd /Library/TeX/texbin
+ls
+vim ~/.zshrc
+source ~/.zshrc
+clear
+pdflatex
+which mactex
+which tex
+vim .zshrc
+cd /usr/local/texlive/2021/texmf-dist/scripts/texlive/
+cd /usr/local/texlive/2023/texmf-dist/scripts/texlive/
+ls
+cd ..
+cd ..
+cd ..
+ls
+cd ..
+pwd
+vim ~/.zshrc
+vim ~\.config/shell
+vim ~\.config/shell/aliasrc
+vim ~/.config/shell/aliasrc
+clear
+source ~/.zshrc
+pdflatex
+which pdflatex
+ls
+cd 2023
+ls
+texmf-config
+cd ..
+tlpkg
+ls
+source ~/.zshrc
+vim ~/.zshrc
+source ~/.zshrc
+$ZSH/plugins/\
+
+$ZSH
+.s
+which zsh
+which $ZSH
+$ZSH grep
+grep $ZSH
+$ZSH/
+vim /Users/ma/.config/shell/bm-files 
+vim /Users/ma/.config/shell/inputrc 
+vim /Users/ma/.config/shell/bm-dirs 
+h
+vim /Users/ma/.config/shell/profile 
